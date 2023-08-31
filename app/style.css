@@ -5,7 +5,7 @@ body{
     font-weight: lighter;
     text-align: center;
 }
-input{
+.search-input{
     width: 600px;
     text-align: justify;
     font-size: larger;
