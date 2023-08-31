@@ -1,0 +1,10 @@
+body{
+    background-color: floralwhite;
+    color:crimson;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 10px;
+}
+input{
+    width: 460px;
+}
