@@ -4,8 +4,12 @@ body{
     font-size: x-large;
     text-align: center;
     margin-top: 10px;
-    
+    font-weight: lighter;
 }
 input{
     width: 460px;
+    color:darkred;
+    text-align: justify;
+    font-size: larger;
+    font-weight: bolder;
 }
