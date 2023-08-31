@@ -1,17 +1,18 @@
 body{
     background-color: floralwhite;
-    color:crimson;
     font-size: x-large;
     text-align: center;
     margin-top: 50px;
     font-weight: lighter;
 }
 input{
-    width: 460px;
-    color:darkred;
+    width: 500px;
     text-align: justify;
     font-size: larger;
     font-weight: bolder;
-    border: 5px solid #555;
-}
+    border: 5px solid black;
+    padding: 20px; 
+    height: 15px;
+    border-radius: 25px;
+    
 }
