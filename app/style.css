@@ -12,4 +12,6 @@ input{
     text-align: justify;
     font-size: larger;
     font-weight: bolder;
+    border: 5px solid #555;
+}
 }
